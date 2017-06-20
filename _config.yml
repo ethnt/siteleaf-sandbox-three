@@ -1,5 +1,5 @@
 ---
-title: Space Jam
+title: Foobar
 timezone: UTC
 collections:
   posts:
@@ -20,4 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
+permalink: "/:date"
+Field name: 
